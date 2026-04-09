@@ -141,6 +141,25 @@ title, searches Archive.org for a match, and downloads from there.
 romsfun's CDN blocks non-browser downloads, so it cannot be used as a
 direct download source.
 
+## Roadmap
+
+### v0.1.0 (current)
+
+- PS1 and PS2 support
+- Archive.org + romsfun.com search
+- Interactive TUI with progress bar
+- Configurable save directory
+
+### v0.2.0
+
+- NES support
+- SNES support
+
+### v0.3.0
+
+- Game Boy Advance (GBA) support
+- Game Boy Color (GBC) support
+
 ## License
 
 This project is for personal and educational use.
